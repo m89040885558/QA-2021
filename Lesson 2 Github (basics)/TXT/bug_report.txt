@@ -1,0 +1,10 @@
+Id	A1
+Name	FF53 - User can enter alphabetical and special symbols to DOB fie
+Steps	1. Log in to MiAgent portal 
+	2. Search for a customer
+	3. Click on Edit icon near Income/Last Changed
+	4. Click on Occupant
+	5. Enter alphabetical and special symbols to DOB field
+Actual result	User can enter alphabetical and special symbols to DOB field
+Expected result	User can't enter alphabetical and special symbols to DOB field
+Attachments	http://prntscr.com/jas795

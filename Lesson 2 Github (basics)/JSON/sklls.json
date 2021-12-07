@@ -1,0 +1,19 @@
+{ "roman": {
+        "skils": [ 
+		"Theory",
+		"HTTP",
+		"JSON, XML",
+		"Postman",
+		"Charles & Fiddler",
+		"Dev Tools",
+		"VPN",
+		"Android Studio",
+		"bash",
+		"SQL",
+		"Postgres",
+		"Redis",
+		"Jmeter",
+		"Scrum",
+		"Python"]
+	}
+}
