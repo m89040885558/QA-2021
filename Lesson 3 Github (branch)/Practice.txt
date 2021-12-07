@@ -1,0 +1,21 @@
+GIT Homework 2
+
+1. На локальном репозитории сделать ветки для:
+- Postman = git branch Postman
+- Jmeter = git branch Jmeter
+- CheckLists = git branch CheckLists
+- Bag Reports = git branch Bag Reports
+- SQL = git branch SQL
+- Charles = git branch Charles
+- Mobile testing = git branch Mobile testing
+ 
+2. Запушить все ветки на внешний репозиторий = git push origin --all
+3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
+4. Запушить структуру багрепорта на внешний репозиторий
+5. Вмержить ветку Bag Reports в Main
+6. Запушить main на внешний репозиторий.
+7. В ветке CheckLists набросать структуру чек листа.
+8. Запушить структуру на внешний репозиторий
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
+10. Синхронизировать Внешнюю и Локальную ветки Main
+ 18. Синхронизировать внешний и локальный репозиторий TXT = git fetch && git pull
