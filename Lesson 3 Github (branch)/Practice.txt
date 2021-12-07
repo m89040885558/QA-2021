@@ -10,12 +10,12 @@ GIT Homework 2
 - Mobile testing = git branch Mobile testing
  
 2. Запушить все ветки на внешний репозиторий = git push origin --all
-3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
-4. Запушить структуру багрепорта на внешний репозиторий
-5. Вмержить ветку Bag Reports в Main
-6. Запушить main на внешний репозиторий.
-7. В ветке CheckLists набросать структуру чек листа.
-8. Запушить структуру на внешний репозиторий
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-10. Синхронизировать Внешнюю и Локальную ветки Main
- 18. Синхронизировать внешний и локальный репозиторий TXT = git fetch && git pull
+3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта = git checkout Bag_Reports && touch bg_1.txt && vim bg_1.txt 
+&& git add . && git commit -m "bg_1"
+4. Запушить структуру багрепорта на внешний репозиторий = git push -u origin Bag_Reports
+5. Вмержить ветку Bag Reports в Main = git checkout main && git merge Bag_Reports
+6. Запушить main на внешний репозиторий. = git push
+7. В ветке CheckLists набросать структуру чек листа. = git checkout CheckLists && touch cl_1.txt && vim cl_1.txt && git add . && git commit -m "cl_1"
+8. Запушить структуру на внешний репозиторий = git push -u origin CheckLists
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main = выполнил
+10. Синхронизировать Внешнюю и Локальную ветки Main = git fetch && git pull
