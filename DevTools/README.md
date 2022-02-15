@@ -1,3 +1,5 @@
+ [![Devtools ](https://github.com/barinova007/devtools/blob/main/scr.jpg?raw=true)](https://youtu.be/0kQiqXSgJz0)
+===
 
  1. Открыть Chrome DevTools.
  2. Зайти в панель Elements.
